@@ -4,7 +4,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[51]:
 
 
 #import libraries
@@ -14,9 +13,6 @@ import time
 import datetime
 
 import smtplib
-
-
-# In[52]:
 
 
 # connect to the amazon website
